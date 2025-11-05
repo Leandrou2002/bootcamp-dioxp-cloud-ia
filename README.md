@@ -20,9 +20,8 @@ Aqui você encontrará **desafios práticos, guias passo a passo e experimentos*
 
 ---
 
-## :computer: Autor
+## :computer:  Autor
 **Leandro de Oliveira** 
 
-Bootcamp DIO + XP Inc | Cloud e Inteligência Artificial  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Leandrou2002)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/leandro-de-oliveira-pereira-435a8119b))
