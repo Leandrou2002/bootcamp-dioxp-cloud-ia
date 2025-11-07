@@ -11,6 +11,8 @@
 Este repositório tem como objetivo **armazenar e documentar os projetos desenvolvidos durante o Bootcamp DIO + XP Inc — Cloud com Inteligência Artificial**.  
 Aqui você encontrará **desafios práticos, guias passo a passo e experimentos** voltados aos temas de **Computação em Nuvem (Cloud)** e **Inteligência Artificial (IA)**, explorando conceitos fundamentais e soluções aplicadas dentro do ecossistema **Microsoft Azure**.
 
+Link do gitbook para melhor visualização: [Clique aqui](https://leandrou.gitbook.io/bootcamp-dio-xp)
+
 ---
 
 ## 📚 Referências
